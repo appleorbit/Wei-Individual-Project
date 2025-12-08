@@ -1,6 +1,6 @@
 # WeiDong_Individual_Project
 
-About this project 
+<h1> About this project <h1> 
 This project analyzes Tesla’s global delivery data from 2015 to 2024, aiming to explore the company’s delivery trends and the characteristics of its regional and model distribution over the past decade through visualization and time series analysis.
 
 Keywords
