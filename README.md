@@ -1,15 +1,19 @@
 # WeiDong_Individual_Project
-<h> About this project <h>
-This project analyzes Tesla’s global delivery data from 2015 to 
-2024, aiming to explore the company’s delivery trends and the 
-characteristics of its regional and model distribution over the past 
-decade through visualization and time series analysis.
 
+About this project 
+This project analyzes Tesla’s global delivery data from 2015 to 2024, aiming to explore the company’s delivery trends and the characteristics of its regional and model distribution over the past decade through visualization and time series analysis.
 
+Keywords
+Tesla, Global Deliveries, Time Series Forecasting, Data Analysis, Predictive Modeling, Market Expansion.
 
-<h> Keywords <h>
-<h> Methodology <h>
-<h> Dataset <h>
+Methodology
+This project mainly applies three types of analytical methods:
+1. Data Cleaning and Preparation
+2. Visualization-Based Descriptive Analysis
+3. Time Series Forecasting
+All methods were implemented using popular Python libraries for data analysis and visualization, including pandas, matplotlib, seaborn, and statsmodels.
+
+Dataset
 The dataset used in this project is called “Tesla Global Deliveries 
 and Production Dataset,” which comes from the Kaggle platform.
 It’s a public synthetic dataset created for teaching and 
